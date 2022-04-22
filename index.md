@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## זיו קלאין | Ziv Klein
 
-You can use the [editor on GitHub](https://github.com/zivklein/web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**__English__**
+*Hello, I am from Bulgaria, Sofia. I'm a linguist who also is very interested in AI and coding in general. The coding languages I am interest in are, JavaScript, C#, Java. The languages I know are, Bulgarian, English and now I am studying Romanian & Hebrew. I am currently working on an AI chat bot project. Most of my documentation here will be document in all languages I know.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**__Български__**
+*Здравейте, аз съм от България, София. Аз съм лингвист който също ѝ така е заинтересован в изкуственият интелект, и по принцип с програмирането. Езиците за програмиране в които съм заинтересован са, JavaScript, C# и Java. Езиците който знам са, Български, Английски, а сега уча, Румънски и Иврит. Вмомента разработвам изкуствен интелект който ще се използва за чат стаи. Всичко което съм документирал и за бъдеще и за сега, ще бъде превеждано на всички изици които знам.*
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zivklein/web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
