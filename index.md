@@ -1,7 +1,7 @@
-## זיו קלאין | Ziv Klein
+## עצבון | neuron
 
 **<!!!>**
-Hello, user. This website will go down for an hour or two due to me changing my GitHub username. For more information about the URL change, please contact me at Discord(זיו#0711)
+URL changed from zivklein.github.io/web to atsavon.github.io/web. We *no-longer* own this URL.
 
 **English**
 *Hello, I am from Bulgaria, Sofia. I'm a linguist who also is very interested in AI and coding in general. The coding languages I am interest in are, JavaScript, C#, Java. The languages I know are, Bulgarian, English and now I am studying Romanian & Hebrew. I am currently working on an AI chat bot project. Most of my documentation here will be document in all languages I know.*
